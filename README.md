@@ -1,4 +1,4 @@
-#Calculadora
+Calculadora
 ![preview](./assets/CalculadoraDark.PNG)
 ![preview](./assets/CalculadoraLight.PNG)
 
@@ -9,7 +9,9 @@ Projeto construído durante o curso Full Stack Javascript da OneBitCode
 ## Tecnologias
 
 -HTML
+<br/>
 -CSS
+<br/>
 -Git e Github
 
 ## Contato
